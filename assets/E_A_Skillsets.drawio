@@ -46,6 +46,30 @@
         <mxCell id="ApMOKjCZKSjx8l21A88w-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" value="MLOps" vertex="1">
           <mxGeometry height="60" width="80" x="500" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="VlkRNT6pfAuhTzLf41ns-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Platforms" vertex="1">
+          <mxGeometry height="60" width="80" x="230" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkRNT6pfAuhTzLf41ns-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Cybersecurity" vertex="1">
+          <mxGeometry height="60" width="80" x="320" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkRNT6pfAuhTzLf41ns-3" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="APIs" vertex="1">
+          <mxGeometry height="60" width="80" x="410" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkRNT6pfAuhTzLf41ns-4" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Microservices" vertex="1">
+          <mxGeometry height="60" width="80" x="500" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkRNT6pfAuhTzLf41ns-5" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="SW&lt;br&gt;Engineering" vertex="1">
+          <mxGeometry height="60" width="80" x="590" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkRNT6pfAuhTzLf41ns-6" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Identity" vertex="1">
+          <mxGeometry height="60" width="80" x="680" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkRNT6pfAuhTzLf41ns-7" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Networking" vertex="1">
+          <mxGeometry height="60" width="80" x="770" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkRNT6pfAuhTzLf41ns-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="EDAs" vertex="1">
+          <mxGeometry height="60" width="80" x="860" y="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
