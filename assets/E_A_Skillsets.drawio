@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Page-1" id="6PsJvAiZinrTK5eA8Otk">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="EA Competencies" id="6PsJvAiZinrTK5eA8Otk">
     <mxGraphModel dx="1018" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -69,6 +69,32 @@
         </mxCell>
         <mxCell id="VlkRNT6pfAuhTzLf41ns-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="EDAs" vertex="1">
           <mxGeometry height="60" width="80" x="860" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uByA2BSKJtTMJ18zoPqM" name="AI Framework">
+    <mxGraphModel dx="1018" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NLTBHvuCqK1CT-IE_sW6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="Harness" vertex="1">
+          <mxGeometry height="100" width="160" x="274" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="X8Oau7Mmhn7RjhCIdkgq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LLMs" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="X8Oau7Mmhn7RjhCIdkgq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agents" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="X8Oau7Mmhn7RjhCIdkgq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tools" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="X8Oau7Mmhn7RjhCIdkgq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Context" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="X8Oau7Mmhn7RjhCIdkgq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Workflow" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
