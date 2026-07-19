@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="6PsJvAiZinrTK5eA8Otk">
+    <mxGraphModel dx="1018" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="2. AI and Data Architecture" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="1. Strategic Business&amp;nbsp; &amp;amp; Systems Thinking" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="3. Technology &amp;amp; Integration Architecture" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="4. Delivery Governance and Change Leadership" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="5. Communication, Influence &amp;amp; Executive Leadership" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-7" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Business model" vertex="1">
+          <mxGeometry height="60" width="80" x="230" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Value Chain" vertex="1">
+          <mxGeometry height="60" width="80" x="320" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-9" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Operating Model" vertex="1">
+          <mxGeometry height="60" width="80" x="410" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-11" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Finance" vertex="1">
+          <mxGeometry height="60" width="80" x="500" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-13" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Regulations" vertex="1">
+          <mxGeometry height="60" width="80" x="590" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-15" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Machine Learning" vertex="1">
+          <mxGeometry height="60" width="80" x="230" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-16" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" value="GenAI +&lt;br&gt;Agentic" vertex="1">
+          <mxGeometry height="60" width="80" x="320" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ufI2EF9lqVT9nN7xHgKs-17" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" value="RAG" vertex="1">
+          <mxGeometry height="60" width="80" x="410" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ApMOKjCZKSjx8l21A88w-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" value="MLOps" vertex="1">
+          <mxGeometry height="60" width="80" x="500" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
