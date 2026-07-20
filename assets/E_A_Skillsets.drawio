@@ -73,6 +73,15 @@
         <mxCell id="NCgO6e10jAV275FOp0Rp-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="Business Model&#xa;      │&#xa;defines&#xa;      ▼&#xa;Operating Model&#xa;      │&#xa;contains&#xa;      ▼&#xa;Business Processes&#xa;      │&#xa;generate&#xa;      ▼&#xa;Enterprise Data&#xa;      │&#xa;used by&#xa;      ▼&#xa;Machine Learning Models&#xa;      │&#xa;managed through&#xa;      ▼&#xa;MLOps&#xa;      │&#xa;enables&#xa;      ▼&#xa;Predictive AI&#xa;      │&#xa;             ┌──────────────┐&#xa;             │              │&#xa;             ▼              ▼&#xa;      Generative AI       AI Agents&#xa;             │              │&#xa;             └──────┬───────┘&#xa;                    │&#xa;         Retrieves enterprise knowledge via&#xa;                    ▼&#xa;                  RAG" vertex="1">
           <mxGeometry height="540" width="220" x="220" y="585" as="geometry" />
         </mxCell>
+        <mxCell id="NCgO6e10jAV275FOp0Rp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="NCgO6e10jAV275FOp0Rp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="NCgO6e10jAV275FOp0Rp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Business Model" vertex="1">
+          <mxGeometry height="60" width="120" x="1180" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
