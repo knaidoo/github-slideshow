@@ -4,122 +4,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="2. AI and Data Architecture" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="130" as="geometry" />
-        </mxCell>
         <mxCell id="ufI2EF9lqVT9nN7xHgKs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" value="Strategic Business&amp;nbsp; &amp;amp; Systems Thinking" vertex="1">
-          <mxGeometry height="720" width="310" x="330" y="430" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="3. Technology &amp;amp; Integration Architecture" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="4. Delivery Governance and Change Leadership" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="5. Communication, Influence &amp;amp; Executive Leadership" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="370" as="geometry" />
+          <mxGeometry height="720" width="310" x="70" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ufI2EF9lqVT9nN7xHgKs-7" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;size=0;align=left;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="1.&amp;nbsp; Business model (Canvas)&lt;div&gt;&lt;ol&gt;&lt;li&gt;Customer segments&lt;/li&gt;&lt;li&gt;Value propositions&lt;/li&gt;&lt;li&gt;Channels&lt;/li&gt;&lt;li&gt;Customer relationships&lt;/li&gt;&lt;li&gt;Revenue streams&lt;/li&gt;&lt;li&gt;Key resources&lt;/li&gt;&lt;li&gt;Key actiivties&lt;/li&gt;&lt;li&gt;Key partnerships&lt;/li&gt;&lt;li&gt;Cost structure&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. Value chain&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3. Continuous improvement&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;4. Finance&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;5. Regulations&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="240" width="290" x="340" y="461" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Value Chain" vertex="1">
-          <mxGeometry height="60" width="80" x="320" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-9" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Operating Model" vertex="1">
-          <mxGeometry height="60" width="80" x="410" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-11" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Finance" vertex="1">
-          <mxGeometry height="60" width="80" x="500" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-13" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Regulations" vertex="1">
-          <mxGeometry height="60" width="80" x="590" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-15" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Machine Learning" vertex="1">
-          <mxGeometry height="60" width="80" x="230" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-16" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" value="GenAI +&lt;br&gt;Agentic" vertex="1">
-          <mxGeometry height="60" width="80" x="320" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ufI2EF9lqVT9nN7xHgKs-17" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" value="RAG" vertex="1">
-          <mxGeometry height="60" width="80" x="410" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ApMOKjCZKSjx8l21A88w-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" value="MLOps" vertex="1">
-          <mxGeometry height="60" width="80" x="500" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="VlkRNT6pfAuhTzLf41ns-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Platforms" vertex="1">
-          <mxGeometry height="60" width="80" x="230" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="VlkRNT6pfAuhTzLf41ns-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Cybersecurity" vertex="1">
-          <mxGeometry height="60" width="80" x="320" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="VlkRNT6pfAuhTzLf41ns-3" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="APIs" vertex="1">
-          <mxGeometry height="60" width="80" x="410" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="VlkRNT6pfAuhTzLf41ns-4" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Microservices" vertex="1">
-          <mxGeometry height="60" width="80" x="500" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="VlkRNT6pfAuhTzLf41ns-5" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="SW&lt;br&gt;Engineering" vertex="1">
-          <mxGeometry height="60" width="80" x="590" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="VlkRNT6pfAuhTzLf41ns-6" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Identity" vertex="1">
-          <mxGeometry height="60" width="80" x="680" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="VlkRNT6pfAuhTzLf41ns-7" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="Networking" vertex="1">
-          <mxGeometry height="60" width="80" x="770" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="VlkRNT6pfAuhTzLf41ns-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="EDAs" vertex="1">
-          <mxGeometry height="60" width="80" x="860" y="210" as="geometry" />
+          <mxGeometry height="240" width="290" x="80" y="71" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-16" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NCgO6e10jAV275FOp0Rp-8" value="Managed by">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Machine Learning Models" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="423" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="343" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-13" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NCgO6e10jAV275FOp0Rp-5" value="Contains">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Operating Model" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="221" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="141" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-12" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NCgO6e10jAV275FOp0Rp-3" value="Defines">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NCgO6e10jAV275FOp0Rp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Business Model" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="120" as="geometry" />
+        <mxCell id="NCgO6e10jAV275FOp0Rp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Business Model" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="40" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-14" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NCgO6e10jAV275FOp0Rp-6" value="Generates">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Business Processes" vertex="1">
-          <mxGeometry height="60" width="120" x="1378" y="221" as="geometry" />
+          <mxGeometry height="60" width="120" x="738" y="141" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-15" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NCgO6e10jAV275FOp0Rp-2" value="Used by">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enterprise Data" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="322" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="242" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-19" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NCgO6e10jAV275FOp0Rp-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GenAI" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="738" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="658" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-17" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NCgO6e10jAV275FOp0Rp-9" value="enables">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Machine Learning Ops" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="528" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="448" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-18" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NCgO6e10jAV275FOp0Rp-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Predictive AI" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="648" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="568" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RAG" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="958" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="878" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-20" edge="1" parent="1" source="NCgO6e10jAV275FOp0Rp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="NCgO6e10jAV275FOp0Rp-7">
           <mxGeometry relative="1" as="geometry" />
@@ -128,13 +68,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCgO6e10jAV275FOp0Rp-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agentic AI" vertex="1">
-          <mxGeometry height="60" width="120" x="1180" y="838" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="758" as="geometry" />
         </mxCell>
         <mxCell id="ISJWtwXQ-f9oQ0nVPLsL-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;size=0;align=left;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="7. Communication, Influence &amp;amp; Executive Leadership" vertex="1">
-          <mxGeometry height="32" width="290" x="339" y="1088" as="geometry" />
+          <mxGeometry height="32" width="290" x="79" y="698" as="geometry" />
         </mxCell>
         <mxCell id="ISJWtwXQ-f9oQ0nVPLsL-4" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;size=0;align=left;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#171717);strokeColor=#006EAF;" value="6. Operating model&amp;nbsp;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Governance&lt;/li&gt;&lt;li&gt;Organization&lt;/li&gt;&lt;li&gt;Business Capabilities&lt;/li&gt;&lt;li&gt;Business Processes&lt;/li&gt;&lt;li&gt;People &amp;amp; skills&lt;/li&gt;&lt;li&gt;Information &amp;amp; Data Architecture&lt;/li&gt;&lt;li&gt;Applications, Integration &amp;amp; Automation&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Microservices&lt;/li&gt;&lt;li&gt;EDA&lt;/li&gt;&lt;li&gt;DevOps&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(23, 23, 23));&quot;&gt;AI Services&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(23, 23, 23));&quot;&gt;ML&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(23, 23, 23));&quot;&gt;GenAI&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(23, 23, 23));&quot;&gt;Agentic AI&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(23, 23, 23));&quot;&gt;RAG&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(23, 23, 23));&quot;&gt;MLOps&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(23, 23, 23));&quot;&gt;Technology platforms&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Networking&lt;/li&gt;&lt;li&gt;Hosting&lt;/li&gt;&lt;li&gt;Identity management&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Performance Management&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delivery governance &amp;amp; change management&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Cybersecurity, Risk &amp;amp; Compliance&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="370" width="290" x="339" y="710" as="geometry" />
+          <mxGeometry height="370" width="290" x="79" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
